@@ -61,19 +61,21 @@ This is explanation for block two. Talk about the summary section.
 
 ###### Images
 
-![IMG1](PATH_TO_IMG)  
-![IMG2](PATH_TO_IMG)  
-![IMG3](PATH_TO_IMG)  
-![IMG4](PATH_TO_IMG)  
+![IMG1](https://64.media.tumblr.com/c5b04f340576ce5859ac69e6401450e3/6dab6b5c26e26f6c-30/s1280x1920/4b3d1abd358d41def4dbfb5b8d5ae40254d0cc88.jpg)  
+![IMG2](https://64.media.tumblr.com/33dbe83c6197a3cd6ad4310a0a5486bd/2176a82ead6fd58d-91/s1280x1920/beee5984a9e174ca46131c6196b61cc562744bb4.jpg)  
+![IMG3](https://64.media.tumblr.com/8da44fb8814ac1482f4a909f99f8ca41/2176a82ead6fd58d-89/s1280x1920/a16611cf91e0ba0ab41823313ff41dc4eb0cf3da.jpg)  
+![IMG4](https://64.media.tumblr.com/30b98071c89271d8b2de5f8caeb60885/27d8b878f7373bc3-45/s1280x1920/33724b1b0f3bf754bcb9b1613026e853d6c09be1.jpg)  
 
 ###### Block 3 
 
 ```
 Final notes.
 ```
+###### Languages used (extended version)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4r11&langs_count=8&layout=compact&theme=dark&align="center")](https://github.com/m4r11/github-readme-stats)
 ---  
 
+###### Badges
 ![shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![mark](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
