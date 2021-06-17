@@ -1,4 +1,4 @@
-### Templates
+### Templates 💌
 ###### A collection of templates to save time ♾  
 
 ###### Block I 
@@ -13,8 +13,14 @@ This is explanation for block one
 This is explanation for block two
 ```
 ###### A table of contents
-- [Block] (#Block-I)
-    - [Block] (#Block-2)
+- [Block] (#######-Block-I)
+    - [Block] (#######-Block-2)
+
+- boolet one
+- boolet two
+- boolet three
+- boolet four
+
 
 ###### A table in case you need it 
 
@@ -36,8 +42,4 @@ This is explanation for block two
 ![IMG3](LINK_TO_IMAGE)  
 ![IMG4](LINK_TO_IMAGE)  
 
-- boolet one
-- boolet two
-- boolet three
-- boolet four
 
