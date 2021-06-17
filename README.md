@@ -66,7 +66,6 @@ This is explanation for block two. Talk about the summary section.
 ![IMG3](PATH_TO_IMG)  
 ![IMG4](PATH_TO_IMG)  
 
-
 ###### Block 3 
 
 ```
