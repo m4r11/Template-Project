@@ -1,8 +1,8 @@
-<p align="center">
-**Template Name** 🏳️
+<h2 align="center">
+Template Name 🏳️
 <br>
 A project template to save time ♾
-</p>
+</h2>
 
 --- 
 
