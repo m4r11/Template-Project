@@ -4,6 +4,8 @@ Template Name 🏳️
 </h2>
 <h6 align="center">
 A project template to save time ♾
+version: 0.0
+by: mvaldeta
 </h6>
 
 <h2>
@@ -23,10 +25,7 @@ switch to one of several backup modules on Wednesday, June 16.
 The computer will then be allowed to run for approximately one day to verify  
 that the problem has been solved. The team would then restart all science  
 instruments and return the telescope to normal science operations.
-
-
 ```
-https://gist.github.com/trusktr/93175b620d47827ffdedbf52433e3b37
 
 ###### Images
 
@@ -111,7 +110,10 @@ $ echo The value of variable x = $x
 ###### Block 3 
 
 ```
-Final notes.
+Final notes. 
+Sure, a real-life Epstein drive is still a few  
+breakthroughs away. But the rocket-building game  
+lets you pilot a fusion-propelled craft right now.
 ```
 ###### Languages used (extended version)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4r11&langs_count=8&layout=compact&theme=dark&align="center")](https://github.com/m4r11/github-readme-stats)
