@@ -66,7 +66,7 @@ This is explanation for block two. Talk about the summary section.
 ```
 Final notes.
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4r11&langs_count=8&layout=compact&theme=highcontrast)](https://github.com/m4r11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4r11&langs_count=8&layout=compact&theme=dark)](https://github.com/m4r11/github-readme-stats)
 ---  
 ![madebash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
 ![shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
