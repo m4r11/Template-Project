@@ -1,5 +1,7 @@
+<p align="center">
 ### Template Name 🏳️
 ###### A project template to save time ♾
+</p>
 
 --- 
 
