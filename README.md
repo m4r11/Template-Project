@@ -1,2 +1,43 @@
-# Templates
-A collection of templates to save time ♾
+### Templates
+###### A collection of templates to save time ♾  
+
+###### Block I 
+
+```
+This is explanation for block one
+```
+
+###### Block 2 
+
+```
+This is explanation for block two
+```
+###### A table of contents
+- [Block] (#Block-one)
+    - [Block] (#Block-two)
+
+###### A table in case you need it 
+
+| info one | info two |
+|:---------:|:-----------------:|
+|one | :) |
+|two | :) |
+|three| :) |
+|four| :) |
+|five| :) |
+
+>[LINK1](https://)
+>[LINK2](https://)
+>[LINK3](https://)
+>[LINK4](https://)
+
+![IMG1](LINK_TO_IMAGE)
+![IMG2](LINK_TO_IMAGE)
+![IMG3](LINK_TO_IMAGE)
+![IMG4](LINK_TO_IMAGE)
+
+- boolet one
+- boolet two
+- boolet three
+- boolet four
+
