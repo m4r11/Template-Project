@@ -1,9 +1,11 @@
 <h2 align="center">
 Template Name 🏳️
+
 </h2>
 <h6 align="center">
 A project template to save time ♾
 </h6>
+
 ---
 
 ###### Cover image for project: from external web link 
