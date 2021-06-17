@@ -61,7 +61,7 @@ This is explanation for block two. Talk about the summary section.
 
 ###### Images
 
-{:refdef: style="width: 10px; height: 10px"}
+<img src="https://64.media.tumblr.com/c5b04f340576ce5859ac69e6401450e3/6dab6b5c26e26f6c-30/s1280x1920/4b3d1abd358d41def4dbfb5b8d5ae40254d0cc88.jpg" width="100" height="100">
 ![IMG1](https://64.media.tumblr.com/c5b04f340576ce5859ac69e6401450e3/6dab6b5c26e26f6c-30/s1280x1920/4b3d1abd358d41def4dbfb5b8d5ae40254d0cc88.jpg)  
 {: refdef}
 {:refdef: style="width: 10px; height: 10px"}
