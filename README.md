@@ -1,6 +1,6 @@
 ### Template Name 🏳️
-###### A project template to save time ♾  
-
+###### A project template to save time ♾
+--- 
 
 ###### Cover image for project: from external web link 
 ![IMG_COVER](https://64.media.tumblr.com/8c716d457931de0b15c8115663c439ce/3cdfb2845c5a7db3-f5/s1280x1920/6eb1c2423ac0730a795de3098e6a56a80bf636e9.jpg)
@@ -16,8 +16,6 @@ This is explanation for block one. Showcase project highlights.
 ```
 This is explanation for block two. Talk about the summary section.
 ```
-###### A graph 
-![graf](https://starchart.cc/{mvaldeta}/{https://github.com/m4r11/42Cursus}.svg)
 
 ###### A table of contents
 
@@ -67,6 +65,7 @@ This is explanation for block two. Talk about the summary section.
 ```
 Final notes.
 ```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?m4r11=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ---    
 [![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/node-chat.svg)](https://github.com/m4r11/Template-Project)
 [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/m4r11/Template-Project/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/m4r11/Template-Project)
