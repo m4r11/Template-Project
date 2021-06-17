@@ -16,12 +16,34 @@ A project template to save time ♾
 
 ```
 This is explanation for block one. Showcase project highlights.
+The computer halted on Sunday, June 13, shortly after 4 p.m. EDT.  
+After analyzing the data, the Hubble operations team is investigating whether. 
+a degrading memory module led to the computer halt. The team is preparing to  
+switch to one of several backup modules on Wednesday, June 16.  
+The computer will then be allowed to run for approximately one day to verify  
+that the problem has been solved. The team would then restart all science  
+instruments and return the telescope to normal science operations.
+
+
 ```
+https://gist.github.com/trusktr/93175b620d47827ffdedbf52433e3b37
+
+###### Images
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="https://64.media.tumblr.com/c5b04f340576ce5859ac69e6401450e3/6dab6b5c26e26f6c-30/s1280x1920/4b3d1abd358d41def4dbfb5b8d5ae40254d0cc88.jpg" width="200"> sub here|<img src="https://64.media.tumblr.com/33dbe83c6197a3cd6ad4310a0a5486bd/2176a82ead6fd58d-91/s1280x1920/beee5984a9e174ca46131c6196b61cc562744bb4.jpg" width="200"> sub here|<img src="https://64.media.tumblr.com/8da44fb8814ac1482f4a909f99f8ca41/2176a82ead6fd58d-89/s1280x1920/a16611cf91e0ba0ab41823313ff41dc4eb0cf3da.jpg" width="200"> sub here|<img src="https://64.media.tumblr.com/30b98071c89271d8b2de5f8caeb60885/27d8b878f7373bc3-45/s1280x1920/33724b1b0f3bf754bcb9b1613026e853d6c09be1.jpg" width="300"> sub here|
 
 ###### Block 2 
 
 ```
-This is explanation for block two. Talk about the summary section.
+This is explanation for block two. Talk about the summary section.  
+The payload computer is a NASA Standard Spacecraft Computer-1 (NSSC-1)  
+system built in the 1980s. It is part of the Science Instrument  
+Command and Data Handling module, which was replaced during the  
+last astronaut servicing mission in 2009. The module has various  
+levels of redundancy which can be switched on to serve as the primary  
+system when necessary.
 ```
 
 ###### A table of contents
@@ -34,6 +56,18 @@ This is explanation for block two. Talk about the summary section.
     * [Block](#######-Block-2)
     * [Block](#######-Block-2)
     * [Block](#######-Block-2)
+
+###### Block 3 
+
+```
+This is explanation for block three. 
+The Hubble Space Telescope is deployed on April 25,  
+1990 from the space shuttle Discovery. Avoiding distortions of  
+the atmosphere, Hubble has an unobstructed view peering  
+to planets, stars and galaxies, some more than 13.4 billion  
+light years away. 
+Credits: NASA/Smithsonian Institution/Lockheed Corporation  
+```
 
 ###### A table of bullets
 
@@ -58,13 +92,6 @@ This is explanation for block two. Talk about the summary section.
 >[LINK2](https://)  
 >[LINK3](https://)  
 >[LINK4](https://)  
-
-###### Images
-
-
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="https://64.media.tumblr.com/c5b04f340576ce5859ac69e6401450e3/6dab6b5c26e26f6c-30/s1280x1920/4b3d1abd358d41def4dbfb5b8d5ae40254d0cc88.jpg" width="200"> sub here|<img src="https://64.media.tumblr.com/33dbe83c6197a3cd6ad4310a0a5486bd/2176a82ead6fd58d-91/s1280x1920/beee5984a9e174ca46131c6196b61cc562744bb4.jpg" width="200"> sub here|<img src="https://64.media.tumblr.com/8da44fb8814ac1482f4a909f99f8ca41/2176a82ead6fd58d-89/s1280x1920/a16611cf91e0ba0ab41823313ff41dc4eb0cf3da.jpg" width="200"> sub here|<img src="https://64.media.tumblr.com/30b98071c89271d8b2de5f8caeb60885/27d8b878f7373bc3-45/s1280x1920/33724b1b0f3bf754bcb9b1613026e853d6c09be1.jpg" width="300"> sub here|
 
 ###### Block 3 
 
