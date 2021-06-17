@@ -4,7 +4,8 @@ Template Name 🏳️
 <h6 align="center">
 A project template to save time ♾
 </h6>
----  
+---
+
 ###### Cover image for project: from external web link 
 ![IMG_COVER](https://64.media.tumblr.com/8c716d457931de0b15c8115663c439ce/3cdfb2845c5a7db3-f5/s1280x1920/6eb1c2423ac0730a795de3098e6a56a80bf636e9.jpg)
 
