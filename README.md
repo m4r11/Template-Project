@@ -76,6 +76,15 @@ Credits: NASA/Smithsonian Institution/Lockheed Corporation
 - bullet three
 - bullet four
 
+###### Code block I 
+
+```c
+static	int	ft_issign(char chr)
+{
+	return (chr == '-' || chr == '+');
+}
+```
+
 ###### A table in case you need it 
 
 | info one | info two |
