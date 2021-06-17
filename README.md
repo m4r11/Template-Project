@@ -1,7 +1,7 @@
 ### Template Name 💌
 ###### A project template to save time ♾  
 
-![IMG](https://azuma-hikari.tumblr.com/post/654239549485170688/perseids-from-perseus-where-are-all-these)
+![IMG_COVER](https://64.media.tumblr.com/8c716d457931de0b15c8115663c439ce/3cdfb2845c5a7db3-f5/s1280x1920/6eb1c2423ac0730a795de3098e6a56a80bf636e9.jpg)
 
 ###### Block I 
 
