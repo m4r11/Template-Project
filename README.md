@@ -95,6 +95,12 @@ static	int	ft_issign(char chr)
 |four| :) |
 |five| :) |
 
+###### Code block II
+
+```bash
+$ echo The value of variable x = $x
+```
+
 ###### Links 
 
 >[LINK1](https://)  
