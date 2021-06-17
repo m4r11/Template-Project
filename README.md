@@ -13,8 +13,8 @@ This is explanation for block one
 This is explanation for block two
 ```
 ###### A table of contents
-- [Block] (#Block-one)
-    - [Block] (#Block-two)
+- [Block] (#Block-I)
+    - [Block] (#Block-2)
 
 ###### A table in case you need it 
 
@@ -26,15 +26,15 @@ This is explanation for block two
 |four| :) |
 |five| :) |
 
->[LINK1](https://)
->[LINK2](https://)
->[LINK3](https://)
->[LINK4](https://)
+>[LINK1](https://)  
+>[LINK2](https://)  
+>[LINK3](https://)  
+>[LINK4](https://)  
 
-![IMG1](LINK_TO_IMAGE)
-![IMG2](LINK_TO_IMAGE)
-![IMG3](LINK_TO_IMAGE)
-![IMG4](LINK_TO_IMAGE)
+![IMG1](LINK_TO_IMAGE)  
+![IMG2](LINK_TO_IMAGE)  
+![IMG3](LINK_TO_IMAGE)  
+![IMG4](LINK_TO_IMAGE)  
 
 - boolet one
 - boolet two
