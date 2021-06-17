@@ -1,7 +1,6 @@
 <h2 align="center">
 Template Name 🏳️
 </h2>
-<br>
 <h6 align="center">
 A project template to save time ♾
 </h6>
