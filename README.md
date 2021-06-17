@@ -1,9 +1,7 @@
 ### Template Name 💌
 ###### A project template to save time ♾  
 
-<img src="https://azuma-hikari.tumblr.com/post/654239549485170688/perseids-from-perseus-where-are-all-these" alt="drawing" width="200"/><img src="https://azuma-hikari.tumblr.com/post/654239549485170688/perseids-from-perseus-where-are-all-these" alt="drawing" width="200"/>
-
-<img src="https://azuma-hikari.tumblr.com/post/654239549485170688/perseids-from-perseus-where-are-all-these" alt="drawing" width="200" height="200"/><img src="https://azuma-hikari.tumblr.com/post/654239549485170688/perseids-from-perseus-where-are-all-these" alt="drawing" width="200" height="200"/>
+![IMG](https://azuma-hikari.tumblr.com/post/654239549485170688/perseids-from-perseus-where-are-all-these)
 
 ###### Block I 
 
