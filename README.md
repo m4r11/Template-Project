@@ -67,7 +67,11 @@ This is explanation for block two. Talk about the summary section.
 Final notes.
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4r11&langs_count=8&layout=compact&theme=highcontrast)](https://github.com/m4r11/github-readme-stats)
----    
+---  
+![madebash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
+![shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 [![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/node-chat.svg)](https://github.com/m4r11/Template-Project)
 [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/m4r11/Template-Project/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/m4r11/Template-Project)
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://github.com/m4r11/Template-Project)
@@ -76,7 +80,3 @@ Final notes.
 ![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![mark](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![madebash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
-![]()
