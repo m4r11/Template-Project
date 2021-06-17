@@ -13,8 +13,8 @@ This is explanation for block one
 This is explanation for block two
 ```
 ###### A table of contents
-- [Block] (#######-Block-I)
-    - [Block] (#######-Block-2)
+- [Block](#######-Block-I)
+    * [Block](#######-Block-2)
 
 - boolet one
 - boolet two
